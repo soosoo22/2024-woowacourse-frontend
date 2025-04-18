@@ -72,7 +72,7 @@
 | [SSR 개인](https://github.com/woowacourse/react-ssr) | [PR](https://github.com/woowacourse/ssr-basecamp/pull/23) | [PR](https://github.com/woowacourse/react-ssr/pull/26) | [PR](https://github.com/woowacourse/react-ssr/pull/71) | [썬데이](https://github.com/useon) | 
 
 ### 테코톡 발표
-쌓임 맥락(Stacking Context) 개념부터 시작해 "왜 내 z-index는 동작하지 않는가?" 를 분석하며, 개발 중 누구나 한 번쯤 겪어봤을 상황을 예시로 들며, 예상과 다르게 동작하는 원인과 해결 방법을 설명한다.
+쌓임 맥락(Stacking Context) 개념부터 시작해 `왜 내 z-index는 동작하지 않는가?` 를 분석하며, 개발 중 누구나 한 번쯤 겪어봤을 상황을 예시로 들며, 예상과 다르게 동작하는 원인과 해결 방법을 설명한다.
 
 - [`z-index의 동작 방식`](https://youtu.be/ln9vfw-JAr8?si=4juQiJmmGs0CoLtt) 발표
 
